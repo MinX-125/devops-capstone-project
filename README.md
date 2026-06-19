@@ -1,4 +1,7 @@
 # DevOps Capstone Template
+
+![Build Status](https://github.com/MinX-125/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 Project Name: devops-capstone-project
 
 This capstone project develops a Customer Accounts microservice for an e-commerce platform. The service will provide REST API capabilities to create, read, update, delete, and list customer accounts.
