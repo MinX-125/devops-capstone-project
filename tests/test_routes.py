@@ -8,8 +8,7 @@ Test cases can be run with the following:
 import os
 import logging
 from unittest import TestCase
-from wsgi import app
-from service import talisman
+from service import app, talisman
 from service.common import status  # HTTP Status Codes
 from service.models import db, Account, init_db
 from tests.factories import AccountFactory
