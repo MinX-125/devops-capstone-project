@@ -1,4 +1,7 @@
 # DevOps Capstone Template
+Project Name: devops-capstone-project
+
+This capstone project develops a Customer Accounts microservice for an e-commerce platform. The service will provide REST API capabilities to create, read, update, delete, and list customer accounts.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
